@@ -11,7 +11,7 @@ It is designed for scalability and can be deployed on any static hosting service
 ## Live Demo
 
 You can access the live version of the application here:  
-**URL**: `<YOUR_PROJECT_URL>`  
+**URL**: `https://electpoint.vercel.app/admin`  
 
 ---
 
@@ -49,10 +49,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/Goodnessw/Electpoint-Voting_app.git>
 
 # 2. Navigate into the project directory
-cd <YOUR_PROJECT_NAME>
+cd <voting-app>
 
 # 3. Install dependencies
 npm install
@@ -119,5 +119,5 @@ This project is open-source and available under the **MIT License**. See the `LI
 
 For questions or support, reach out via:  
 
-- **Email:** `<YOUR_EMAIL>`  
-- **GitHub:** `<YOUR_GITHUB_PROFILE>`  
+- **Email:** `<goodnessw31@gmail.com>`  
+- **website:** `<https://goodnessw-portfolio.vercel.app/>`  
