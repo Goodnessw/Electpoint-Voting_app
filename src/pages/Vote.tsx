@@ -287,7 +287,7 @@ const Vote = () => {
           <p className="text-center text-sm text-muted-foreground">
             Built with ❤️ by{" "}
             <a
-              href="https://goodnessw-portfolio.vercel.app"
+              href="https://goodnessw.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline font-medium transition-colors"
